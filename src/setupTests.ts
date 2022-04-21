@@ -1,4 +1,4 @@
-//Setup @testing-library/react for import intellisense
+//Setup @testing-library/react for importing intellisense
 import "@testing-library/react";
 
 //Setup jest-dom matchers as globals
